@@ -1,0 +1,12 @@
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\AJAXTextEditor\AJAXTextEditor\bin\AJAXTextEditor.dll.config
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\AJAXTextEditor\AJAXTextEditor\bin\AJAXTextEditor.dll
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\AJAXTextEditor\AJAXTextEditor\bin\AJAXTextEditor.pdb
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\AJAXTextEditor\AJAXTextEditor\obj\Debug\AJAXTextEditor.csprojResolveAssemblyReference.cache
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\AJAXTextEditor\AJAXTextEditor\obj\Debug\AJAXTextEditor.dll
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\AJAXTextEditor\AJAXTextEditor\obj\Debug\AJAXTextEditor.pdb
+C:\Users\abasheer-cc\Documents\Visual Studio 2013\Projects\AJAXTextEditor\AJAXTextEditor\obj\Debug\AJAXTextEditor.csprojResolveAssemblyReference.cache
+C:\Users\abasheer-cc\Documents\Visual Studio 2013\Projects\AJAXTextEditor\AJAXTextEditor\obj\Debug\AJAXTextEditor.dll
+C:\Users\abasheer-cc\Documents\Visual Studio 2013\Projects\AJAXTextEditor\AJAXTextEditor\bin\AJAXTextEditor.dll.config
+C:\Users\abasheer-cc\Documents\Visual Studio 2013\Projects\AJAXTextEditor\AJAXTextEditor\bin\AJAXTextEditor.dll
+C:\Users\abasheer-cc\Documents\Visual Studio 2013\Projects\AJAXTextEditor\AJAXTextEditor\bin\AJAXTextEditor.pdb
+C:\Users\abasheer-cc\Documents\Visual Studio 2013\Projects\AJAXTextEditor\AJAXTextEditor\obj\Debug\AJAXTextEditor.pdb
